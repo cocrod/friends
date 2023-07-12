@@ -1,1 +1,3 @@
-Elsa HPC Summer school
+Elsa from Lawrence Livermore National Lab
+
+Margot from UT Austin; using GIZMO for zoom-in stellar simulations
