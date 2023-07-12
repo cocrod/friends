@@ -1,3 +1,5 @@
 Elsa from Lawrence Livermore National Lab
 
 Margot from UT Austin; using GIZMO for zoom-in stellar simulations
+
+Omar from UC Boulder; studying plasma physics, magnectic reconnection in AGN
